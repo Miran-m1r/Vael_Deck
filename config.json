@@ -1,0 +1,38 @@
+{
+  "serial": {
+    "port": "AUTO",
+    "baud_rate": 500000
+  },
+  "buttons": {
+    "BTN_1": {
+      "label": "Deafen",
+      "type": "hotkey",
+      "value": "ctrl,shift,d"
+    },
+    "BTN_2": {
+      "label": "Live Stream",
+      "type": "hotkey",
+      "value": "alt,f9"
+    },
+    "BTN_3": {
+      "label": "Screenshot",
+      "type": "hotkey",
+      "value": "win,shift,s"
+    },
+    "BTN_4": {
+      "label": "Spotify",
+      "type": "launch",
+      "value": "spotify.exe"
+    },
+    "BTN_5": {
+      "label": "Steam",
+      "type": "launch",
+      "value": "steam://open/main"
+    },
+    "BTN_6": {
+      "label": "YouTube",
+      "type": "url",
+      "value": "https://youtube.com"
+    }
+  }
+}
